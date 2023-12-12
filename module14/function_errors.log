@@ -1,0 +1,9 @@
+2023-12-12 22:08:17.685764 - Ошибка в функции another_function: Пример ошибки
+Traceback (most recent call last):
+  File "C:\Users\VKASOFT\Desktop\Python-Homework\Python-Homework\module14\Задача 3. Логирование.py", line 9, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VKASOFT\Desktop\Python-Homework\Python-Homework\module14\Задача 3. Логирование.py", line 28, in another_function
+    raise ValueError("Пример ошибки")
+ValueError: Пример ошибки
+
