@@ -1,0 +1,4 @@
+2023-12-09 00:02:37 ERROR Connection failure to market data feed
+2023-12-09 00:05:22 ERROR Trade rejected: Insufficient funds in account 789012
+2023-12-09 00:08:55 ERROR Timeout while processing order 456789
+2023-12-09 00:10:03 ERROR System resource usage is critically high
